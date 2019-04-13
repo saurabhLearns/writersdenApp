@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "606780296071",
+    "firebase_url": "https://writersdenapp.firebaseio.com",
+    "project_id": "writersdenapp",
+    "storage_bucket": "writersdenapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606780296071:android:36b37d285143379a",
+        "android_client_info": {
+          "package_name": "com.example.writerssden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606780296071-skret7a4rrmqm0ri1pg5e67oud2gb0ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwfzmM5Gy73SZAC2-shZNIn1WDtEs_Ods"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
