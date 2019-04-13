@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Writers\'s den</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Login</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="app_name_reg">Create New Account</string>
+    <string name="login_title">Login</string>
+    <string name="submit_title">Submit New Post</string>
+    <string name="title_activity_prof">ProfActivity</string>
+    <string name="hello_user">Hello User!</string>
+</resources>
